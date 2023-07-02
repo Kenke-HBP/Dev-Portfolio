@@ -1,0 +1,41 @@
+.animals-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .animal-card {
+    flex-basis: 50%;
+    max-width: 400px;
+    max-height: 1000px;
+    background-color: #539a61;
+    border: 5px solid #0b4c25;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .animal-card h3 {
+    font-size: 20px;
+  }
+  
+  .animal-card p {
+    font-size: 16px;
+  }
+  
+  .animal-card img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  .AnimalCard button {
+    font-size: 1rem;
+    background-color: #0b4c25;
+    color: #70c881;
+    padding: 10px 20px;
+    border: 5px solid #539a61;
+    cursor: pointer;
+  }
+  

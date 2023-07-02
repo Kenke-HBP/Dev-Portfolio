@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+  }
+  
+  .RegistrationForm {
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+  .RegistrationForm label {
+    display: block;
+    margin-bottom: 10px;
+    color: darkblue;
+  }
+  
+  .RegistrationForm input[type="text"],
+  .RegistrationForm input[type="email"],
+  .RegistrationForm input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .RegistrationForm button {
+    padding: 8px 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .RegistrationForm .form-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+
+  
+  
