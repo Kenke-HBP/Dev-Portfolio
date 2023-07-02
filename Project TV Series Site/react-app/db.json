@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "test1@test.com",
+      "password": "$2a$10$JR6nbQuy06P0o.robzsicuHPRTZ58W1ecQtriSZFlguyOTW1SeTZG",
+      "firstName": "test1",
+      "lastName": "test1",
+      "username": "test1",
+      "id": 1
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$10$WYhU8gDZa7CM2IG0mqqgIe2TgJ6qb7uhT.y/bZBxABhZ726EYHWdS",
+      "firstName": "test2",
+      "lastName": "test2",
+      "username": "test2",
+      "id": 2
+    },
+    {
+      "email": "giorgi.kenkebashvili@gmail.com",
+      "password": "$2a$10$2pLTHvuWEQNHg8BSwSRr3.E3PWIZrZ80hOozaEaU9Zik3xRXMU0Z6",
+      "firstName": "giorgi",
+      "lastName": "kenkebashvili",
+      "username": "kenkeba",
+      "id": 3
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "$2a$10$Jd7503pmbF291tFbhbtbP.Ya3DQ4D2SLxOIfzxOCXFxK34zg70oPe",
+      "firstName": "xcv",
+      "lastName": "bvcx",
+      "username": "qwert",
+      "id": 4
+    },
+    {
+      "email": "mnbv@gmail.com",
+      "password": "$2a$10$NM1QDCVQBJhtFe8W4N0tHeLbR6rsl1FvXLMtYQ7zgiMKrmSKuA0hu",
+      "firstName": "asd",
+      "lastName": "asdf",
+      "username": "kenkeba",
+      "id": 5
+    },
+    {
+      "email": "giorgi@gmail.com",
+      "password": "$2a$10$tA0vs6KPdK.Gb55Zdj8g0./WmrpwR3vAP9Qgj/U1bVYHvHggRWugO",
+      "firstName": "giorgi",
+      "lastName": "bvcx",
+      "username": "kenkeba",
+      "id": 6
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$fd.JAZmmbLE2KtN6GnLKyeFbMPO79/Wk89msDOM7zg8zIQ2zc5Y2i",
+      "firstName": "aaa",
+      "lastName": "bbb",
+      "username": "aaaa",
+      "id": 7
+    },
+    {
+      "email": "asd123asd@gmail.com",
+      "password": "$2a$10$16KnxoGKRf4ilK.PJz7P5uDrl9Mm4im3EDcXMRizu51Dc5tB1JN4C",
+      "firstName": "giorgi",
+      "lastName": "kenkebashvili",
+      "username": "user",
+      "id": 8
+    },
+    {
+      "email": "sev@gmail.com",
+      "password": "$2a$10$UkZJHa6lZ5aRiHRMbf2JpuZop7zO4VCRHa82.QR7j8U8sWVnvCEJK",
+      "firstName": "giorgi",
+      "lastName": "kenkebashvili",
+      "username": "sever",
+      "id": 9
+    }
+  ]
+}
